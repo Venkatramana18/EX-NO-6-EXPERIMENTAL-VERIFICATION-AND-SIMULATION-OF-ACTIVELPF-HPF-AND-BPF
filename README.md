@@ -11,7 +11,7 @@
          
 ---
 
-## AIM and obtain the frequency response of
+## AIM and obtain the frequency response  of
 
 i)	First order Low Pass Filter (LPF)
 ii)	First order High Pass Filter (HPF)
