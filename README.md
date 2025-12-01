@@ -40,7 +40,7 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ---
 ## CIRCUIT DIAGRAM
-<img width="836" height="455" alt="image" src="https://github.com/user-attachments/assets/e5181151-836f-4f80-8f56-53b23ff05c74" />
+![WhatsApp Image 2025-12-01 at 08 50 29_cd778025](https://github.com/user-attachments/assets/1f569881-e1b0-43e2-908e-8cfcf9eb8842)
 
 
 ## MODEL GRAPH
